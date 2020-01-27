@@ -1,3 +1,5 @@
 /venv/**
 /.idea/**
 .flaskenv
+/__pycache__/**
+/app/__pycache__/**
